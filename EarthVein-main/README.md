@@ -1,12 +1,16 @@
-# EarthVein
+# EarthVein :
+An intelligent web platform for environmental monitoring and smart tracking.
+
+## Live Demo (Visit EarthVein) :
+
+https://earthvein.onrender.com/
+
+# About EarthVein :
 
 EarthVein is a web platform that spreads delivery traffic and EV charging demand across a city, so the
 roads and chargers that already exist carry more before anyone has to build new ones. Vehicle owners
 register their EVs, the system picks a station and a time slot for each charge, and a control room can
 watch the network and step in when the suggestion is wrong.
-
-This is the Round 2 prototype for the Sustainability and Smart Cities track. It was called VeinFlow in
-the Round 1 submission. The name is EarthVein everywhere now.
 
 ## What is in the prototype
 
